@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jbmenashi@gmail.com"]
 
   spec.summary       = %q{It's a gem about the movie Space Jam}
-  spec.description   = %q{Used to tell people the score of the Tune Squad vs Monstars game}
+  spec.description   = %q{Used to tell people the score of the Tune Squad vs Monstars game - JUST FOR PRACTICE PURPOSES}
   spec.homepage      = "https://github.com/jbmenashi"
   spec.license       = "MIT"
 
